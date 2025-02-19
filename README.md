@@ -15,7 +15,7 @@ How to Use
 
 Clone or Download this repository.
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/shahad-jeza/ELM_training_week1_day3.git
 
 Open the index.html file in a web browser.
 
